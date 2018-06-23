@@ -59,7 +59,7 @@ h1 {
 }
 
 h2 {
-	font-size:1em;
+	font-size:2em;
 }
 
 p {
@@ -70,16 +70,16 @@ p {
 
 
 .r-m {
-	float: left;
-	margin-bottom: 2%;
-	margin-left: 5%;
+	/*float: left;*/
+	/*margin-bottom: 2%;*/
+	/*margin-left: 5%;*/
 	border-radius: 30px;
 }
 
 .s-u {
-	float: right;
-	margin-bottom: 2%;
-	margin-right: 5%;
+	/*float: right;*/
+	/*margin-bottom: 2%;
+	margin-right: 5%;*/
 	border-radius: 30px;
 }
 
@@ -242,25 +242,26 @@ p {
 	top: 47%;
 	transform: translateY(-47%);
 	background:#262626;
+	padding:5%;
 }
 
 .mainpg {
 	position: relative;
 	height:100%;
-	width:80%;
+	width:70%;
 	margin:0 auto;
 }
 
 .pagination {
 	position:fixed;
 	left:20px;
-	top: 50%;
-	transform: translateY(-50%);
+	top: 60%;
+	transform: translateY(-60%);
 }
 
 .pagination a {
 	display:block;
-	height:20px;
+	height:30px;
 	color:#262626;
 	position:relative;
 	padding:5px;
@@ -273,8 +274,9 @@ p {
 .pagination a .hover-text {
 	position:absolute;
 	left:15px;
-	opacity:0.3;
-	margin-top:30%;
+	opacity: 0;
+	margin-top:8px;
+	font-size: 0.8em;
 }
 
 .pagination a:hover .hover-text {
