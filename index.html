@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<title>NPS Koramangala Fest</title>
+		<meta name="viewport" content="width=device-width,initial-scale=1">
+		<link rel="stylesheet" href="css">
+		<link rel="stylesheet" href="main.css">
+		<link rel="stylesheet" href="animate.css">
+
+	</head>
+
+	<body style="overflow: hidden;">
+		<img src="IRISLOGO.png" alt="Logo" style="position:fixed; margin-left:2%; margin-top:2%;visibility:show" width=100 height=80>
+
+		<div class="panel" data-section-name="home">
+			<div class="mainpg">
+				<div class="details wow fadeIn">
+					<br><br>
+					<p>NPS Koramangala Presents</p><br><br>
+					<img src="IRISLOGOWHITE.png" width=200 height=160 style="margin-left:5%"></img><br><br>
+					<h1>IRIS</h1>
+					<p> FINAL COUNTDOWN </p>
+					<br><br><br>
+					<div class="button r-m" onclick="$.scrollify.move('#second')">
+						<span class="button__mask"></span>
+						<span class="button__text" style="font-size: 1em">read more</span>
+						<span class="button__text button__text--bis" style="font-size: 1em">read more</span>
+					</div>
+
+					<div class="button s-u" onclick="$.scrollify.move('#second')">
+						<span class="button__mask"></span>
+						<span class="button__text" style="font-size: 1em">sign up</span>
+						<span class="button__text button__text--bis" style="font-size: 1em">sign up</span>
+					</div>
+
+					<br><br>
+				</div>
+			</div>
+			
+			<ul class="pagination">
+				<li>
+					<a class="active" href="#home"><span class="hover-text">Home</span></a>
+				</li>
+				<li>
+					<a class="" href="#second"><span class="hover-text">Second</span></a>
+				</li>
+				<li>
+					<a class="" href="#third"><span class="hover-text">Third</span></a>
+				</li>
+				<li>
+					<a class="" href="#fourth"><span class="hover-text">Fourth</span></a>
+				</li>
+			</ul>
+		</div>
+		<div class="panel" data-section-name="second">
+			<div class="mainpg">
+				<div class="details wow fadeIn">
+					<br><br>
+					<h1>Second Page</h1>
+					<p> Tada </p>
+					<p> Tada </p>
+					<p> Tada </p>
+					<p> Tada </p>
+					<br><br>
+				</div>
+			</div>
+		</div>
+		<div class="panel" data-section-name="third">
+			<div class="mainpg">
+				<div class="details wow fadeIn">
+					<br><br>
+					<h1>Third Page</h1>
+					<p>Huzzah</p>
+					<p>Huzzah</p>
+					<p>Huzzah</p>
+					<p>Huzzah</p>
+					<br><br>
+				</div>
+			</div>
+		</div>
+		<div class="panel" data-section-name="fourth">
+			<div class="mainpg">
+				<div class="details wow fadeIn">
+					<br><br>
+					<h1>Fourth Page</h1>
+					<p>The End</p>
+					<p>The End</p>
+					<p>The End</p>
+					<p>The End</p>
+					<br><br>
+				</div>
+			</div>
+		</div>
+	</body>
+
+	<script src="jquery-2.1.1.js"></script>
+
+	<script src="jquery.scrollify.js"></script>
+
+	<script src="main.js"></script>
+
+	<script src="wow.min.js"></script>
+
+	<script>
+		new WOW().init();
+	</script>
+</html>
