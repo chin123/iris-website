@@ -1,6 +1,7 @@
 $(function() {
 	$.scrollify({
 		section:".panel",
+		interstitialSection:".footer",
 		before:function(i, panels) {
 			var ref = panels[i].attr("data-section-name");
 
