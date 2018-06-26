@@ -267,6 +267,8 @@ p {
 	transform: translateY(-47%);
 	background:rgba(38,38,38,0.5);
 	padding:5%;
+	padding-top: 15%;
+	padding-bottom: 15%;
 }
 
 .mainpg {
