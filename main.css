@@ -385,3 +385,10 @@ p {
 .rules {
 	background: #262626 !important;
 }
+
+@media (min-width:1025px) {
+  .rules p {
+    font-size: 1.5em !important;
+    line-height: 2em !important;
+  }
+}

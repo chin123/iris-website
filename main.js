@@ -31,11 +31,11 @@ $(function() {
 
 new WOW().init();
 var ids = ["first", "second", "third", "fourth", "fifth", "sixth", "seventh", "eighth", "ninth", "tenth", "eleventh", "twelfth", "thirteenth", "fourteenth"];
-rules = ["<p style='font-size:1em !important;'>\
-	<u>Time:</u> 9:00-2:30 \
-	<u>Participation:</u> 3 members per team \
+rules = ["<p style='font-size:1em;'>\
+	<u>Time:</u> 9:00-2:30<br> \
+	<u>Participation:</u> 3 members per team<br> \
 	<u>Eligibility:</u> 9-12 <br>\
-	<u>Rules:</u> \
+	<u>Rules:</u><br> \
 	This event requires broad knowledge of the sciences,\
 	ranging across biology, chemistry and physics, as well as\
 	aspects of literature and science fiction.\
@@ -46,13 +46,13 @@ rules = ["<p style='font-size:1em !important;'>\
 	this event is prohibited. A watch is allowed, and\
 	recommended.</p>",
 
-	"<p style='font-size:0.9em !important;'><u>Time:</u> 9:00-2:30 <u>Participation:</u> 2 members per team <u>Eligibility:</u> 11-12 <br><u>Round 1</u>:The teams will be given a list of diseases with relevant study material by July 5th based on which a written test will be conducted on the day of the event. The written test will contain 50 questions related to the diseases mentioned which is to be attempted in 30 minutes based on which 4 teams will be selected to qualify onto the next round.<br> <u>Round 2</u>: After the teams have been selected they will be given extra study material with which they will have approx. 1.5 hours to prepare for the next round. In the final round the teams will be given medical case studies in which they will have to identify the misdiagnosis made and come up with the correct diagnosis for the illness.The cases will be related to the study material given beforehand andbetween the two rounds.<br><u>Additional Rules:</u>No access to phones/laptops/internet in any form will be allowed.Teams will be judged based on their performance in both the rounds.</p>",
+	"<p style='font-size:0.9em;'><u>Time:</u> 9:00-2:30 <br><u>Participation:</u> 2 members per team <br><u>Eligibility:</u> 11-12 <br><u>Round 1</u>:The teams will be given a list of diseases with relevant study material by July 5th based on which a written test will be conducted on the day of the event. The written test will contain 50 questions related to the diseases mentioned which is to be attempted in 30 minutes based on which 4 teams will be selected to qualify onto the next round.<br> <u>Round 2</u>: After the teams have been selected they will be given extra study material with which they will have approx. 1.5 hours to prepare for the next round. In the final round the teams will be given medical case studies in which they will have to identify the misdiagnosis made and come up with the correct diagnosis for the illness.The cases will be related to the study material given beforehand andbetween the two rounds.<br><u>Additional Rules:</u>No access to phones/laptops/internet in any form will be allowed.Teams will be judged based on their performance in both the rounds.</p>",
 
-	"<p style='fony-size:1em !important'>\
-	<u>Time:</u> 9.00 am - 2.30 pm \
+	"<p style='font-size:1em'>\
+	<u>Time:</u> 9.00 am - 2.30 pm<br> \
 	<u>Participation:</u> 15 TEAMS (Up to 2 per school), \
-	2-4 members each. \
-	<u>Eligibility Grades:</u> 9-12 \
+	2-4 members each.<br> \
+	<u>Eligibility Grades:</u> 9-12 <br>\
 	<u> No. of Rounds:</u> 2\
 	<br>\
 	Each team will be required to assemble and code a black line following robot. Each round will be an elimination round. The robots which complete the track in the least time will proceed to the next round.<br>\
@@ -67,8 +67,8 @@ rules = ["<p style='font-size:1em !important;'>\
 	Participants have to bring their own laptops, sensors, wires and other materials required for their robot<br>\
 	",
 
-	"<p style='fony-size:1em !important'> <u>No.of participants:</u> 5 members(1 team per school). \
-	<u>First 6 schools to register can participate.</u>\
+	"<p style='font-size:1em'> <u>No.of participants:</u> 5 members(1 team per school). \
+	<u>First 6 schools to register can participate.</u><br>\
 	<u>Timings:</u> 9am to 2 pm (Teams will have to book their slots at the registration desk on the day of the\
 	fest. Each slot is 25 minutes.)<br>\
 	Participants are placed in an escape room scenario where they must find a way to escape\
@@ -78,22 +78,33 @@ rules = ["<p style='font-size:1em !important;'>\
 	keycode which unlocks the door of the spacecraft.Teams will be judged on their accuracy\
 	and time of completion.</p>",
 	
-	"<p style='font-size: 1em !important;'>Oops</p>",
+	"<p style='font-size: 1em;'>\
+	<u>TIME:</u> 9:00- 1:00 pm<br>\
+	<u>PARTICIPATION:</u> MAX 6 TEAMS (1 per school), 5 members each<br>\
+	<u>ELIGIBILITY GRADES:</u> 9-12<br>\
+	<u>NO. OF ROUNDS:</u> 1<br>\
+	<u>RULES:</u><br>\
+	This is a time-based event<br>\
+	Participants are required to bring basic stationery such as\
+	scissors, glue, tape, etc. All other material will be provided.<br>\
+	Additional rules and briefing will be given on the day of the\
+	event.\
+	</p>",
 	
-	"<p style='font-size: 1em !important;'><u>Grades Eligible: </u> 9-12 \
-	<u>Number of Participants:</u> Groups of three \
-	<u>Number of Rounds:</u> 3 \
-	<u>Timing:</u> 9:00am – 1:00pm <br>\
-	Qualifiers: (Written Round) \
+	"<p style='font-size: 1em;'><u>Grades Eligible: </u> 9-12<br> \
+	<u>Number of Participants:</u> Groups of three<br> \
+	<u>Number of Rounds:</u> 3<br> \
+	<u>Timing:</u> 9:00am-1:00pm <br>\
+	<u>Qualifiers:</u> (Written Round) \
 	Participants will have to answer 20 questions worth one mark including MCQs and subjective questions.\
 	8 teams move to semi-finals.<br>\
-	Semi-finals:<br>\
+	<u>Semi-finals:</u><br>\
 	Round 1: \
 	Qualified teams will have to answer 4 questions each- organic, inorganic<br>\
 	Round 2: \
 	Participants will have to answer questions based on a theme that they will have to identify. \
 	Four teams are eliminated at the end of this round.<br>\
-	Finals:<br>\
+	<u>Finals:</u><br>\
 	Round 1: \
 	Participants will have to answer three rounds of questions based on several categories.<br>\
 	Round 2:Surprise Round, \
@@ -103,7 +114,7 @@ rules = ["<p style='font-size:1em !important;'>\
 	Rules for this round will be given to the participants.\
 	</p>",
 	
-	"<p style='font-size:0.9em !important;'><u>Theme:</u> The Science of Fashion \
+	"<p style='font-size:0.9em;'><u>Theme:</u> The Science of Fashion \
 	<u>Time:</u> 12 pm to 3pm\
 	<u>Number of Participants:</u> 6 models +2 designers \
 	<u>Number of rounds:</u> 3<br>\
@@ -129,12 +140,12 @@ rules = ["<p style='font-size:1em !important;'>\
 	Teams that make it to the second round will be provided with the ramp specifications by 12th July.\
 	</p>",
 	
-	"<p style='font-size:1em !important'><u>Grades Eligible:</u> 9-12<br>\
+	"<p style='font-size:1em'><u>Grades Eligible:</u> 9-12<br>\
 	<u>Number of Participants:</u> 5 members per team<br>\
 	<u>Number of Rounds:</u> 3 surprise rounds<br>\
 	<u>Timings:</u> 9:00am-11:00am</p>",
 	
-	"<p style='font-size:1em !important'><u>Grades Eligible:</u> 9-12<br>\
+	"<p style='font-size:1em'><u>Grades Eligible:</u> 9-12<br>\
 	<u>Number of Participants:</u> Groups of two<br>\
 	<u>Number of Rounds:</u> 2<br>\
 	<u>Event Details:</u><br>\
@@ -148,10 +159,10 @@ rules = ["<p style='font-size:1em !important;'>\
 	<u>Additional Rules:</u><br>\
 	Use of a dictionary/thesaurus or any digital item will not be\
 	permitted.<br>\
-	<u>Timings:</u> 9:00am – 2:00pm</p>",
+	<u>Timings:</u> 9:00am-2:00pm</p>",
 	
-	"<p style='font-size:0.9em !important'>\
-	<u>TIME:</u> 9.00 am – 2.00 pm \
+	"<p style='font-size:0.9em'>\
+	<u>TIME:</u> 9.00 am-2.00 pm \
 	<u>PARTICIPATION:</u> 10 TEAMS (1 per school), \
 	2 members each. \
 	<u>ELIGIBILITY:</u> GRADES 9-12 \
@@ -169,7 +180,7 @@ rules = ["<p style='font-size:1em !important;'>\
 	There are no individual time limits for any aspects of the event. The video and front page can be submitted any time before 2:00pm and teams will tweet throughout the day.\
 	</p>",
 	
-	"<p style='font-size:1em !important'><u>Timings:</u> 9 am to 11am\
+	"<p style='font-size:1em'><u>Timings:</u> 9 am to 11am\
 	<br><u>No. of rounds:</u> 3 rounds\
 	<br><u>No. of participants:</u> 2 members (1 team per school)\
 	<br><u>ROUND 1:</u> \
@@ -181,12 +192,12 @@ rules = ["<p style='font-size:1em !important;'>\
 	<br>Each round in the event is an elimination round.\
 	</p>",
 	
-	"<p style='font-size:1em !important'><u>Time:</u> 9:00-2:30<br> \
+	"<p style='font-size:1em'><u>Time:</u> 9:00-2:30<br> \
 	<u>Participation:</u> 2 members per team<br> \
 	<u>Eligibility:</u> 9-12<br> \
 	<u>No. of rounds</u>: 2 <br>\
 	<u>Round 1: </u>\
-	Teams will be given a broad topic (Example – Education) 2 weeks before\
+	Teams will be given a broad topic (Example-Education) 2 weeks before\
 	the event. The teams will have to come up with an idea on the topic given\
 	to them. All the teams will be given the same topic. The teams must come\
 	up with a viable product along with the go to marketing strategy.\
@@ -205,7 +216,7 @@ rules = ["<p style='font-size:1em !important;'>\
 	Teams will not be required to present a valuation on the company\
 	and sell a certain equity.</p>",
 	
-	"<p style='font-size:1em !important'><u>Time:</u> 9:00-1:00<br>\
+	"<p style='font-size:1em'><u>Time:</u> 9:00-1:00<br>\
 	<u>Participation:</u>  MAX 16 teams, 2 members per team<br>\
 	<u>Eligibility:</u> 10-12<br>\
 	<u>Rules:</u> <br>\
@@ -230,7 +241,7 @@ var showinfo = function (ind) {
 
 	var endtext = '</div></div>'
 
-	var buttontext = '<div class="button r-m" onclick="showold(' + ind + ')"><span class="button__mask"></span><span class="button__text" style="font-size: 1em">Back</span><span class="button__text button__text--bis" style="font-size: 1em">Back</span></div>';
+	var buttontext = '<br><br><div class="button r-m" onclick="showold(' + ind + ')"><span class="button__mask"></span><span class="button__text" style="font-size: 1em">Back</span><span class="button__text button__text--bis" style="font-size: 1em">Back</span></div>';
 
 	oldhtml[ind - 1] = $("*[data-section-name=\"" + ids[ind] + "\"]").html();
 
