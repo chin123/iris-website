@@ -398,7 +398,7 @@ a {
   text-decoration: none;
 }
 
-#lesspadding {
+#lesspadding, .homepage {
   padding-top: 5% !important;
   padding-bottom: 5% !important;
 }
