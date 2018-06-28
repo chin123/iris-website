@@ -398,6 +398,11 @@ a {
   text-decoration: none;
 }
 
+#lesspadding {
+  padding-top: 5% !important;
+  padding-bottom: 5% !important;
+}
+
 @media (min-width:1200px) {
   .rules p {
     font-size: 1.2em !important;
