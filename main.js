@@ -33,7 +33,7 @@ new WOW().init();
 var ids = ["first", "second", "third", "fourth", "fifth", "sixth", "seventh", "eighth", "ninth", "tenth", "eleventh", "twelfth", "thirteenth", "fourteenth"];
 rules = ["<p style='font-size:1em;'>\
 	<u>Time:</u> 9:00-2:30<br> \
-	<u>Participation:</u> 3 members per team<br> \
+	<u>Participation:</u> 3 members per team, Max 1 team per school (Max 12 teams total)<br> \
 	<u>Eligibility:</u> Grades 9-12 <br>\
 	<u>Rules:</u><br> \
 	This event requires broad knowledge of the sciences,\
@@ -46,12 +46,12 @@ rules = ["<p style='font-size:1em;'>\
 	this event is prohibited. A watch is allowed, and\
 	recommended.</p>",
 
-	"<p style='font-size:0.9em;'><u>Time:</u> 9:00-2:30 <br><u>Participation:</u> 2 members per team <br><u>Eligibility:</u> Grades 11-12 <br><u>Round 1</u>:The teams will be given a list of diseases with relevant study material by July 5th based on which a written test will be conducted on the day of the event. The written test will contain 50 questions related to the diseases mentioned which is to be attempted in 30 minutes based on which 4 teams will be selected to qualify onto the next round.<br> <u>Round 2</u>: After the teams have been selected they will be given extra study material with which they will have approx. 1.5 hours to prepare for the next round. In the final round the teams will be given medical case studies in which they will have to identify the misdiagnosis made and come up with the correct diagnosis for the illness.The cases will be related to the study material given beforehand andbetween the two rounds.<br><u>Additional Rules:</u>No access to phones/laptops/internet in any form will be allowed.Teams will be judged based on their performance in both the rounds.</p>",
+	"<p style='font-size:0.9em;'><u>Time:</u> 9:00-2:30 <br><u>Participation:</u> 2 members per team, Max 1 team per school <br><u>Eligibility:</u> Grades 11-12 <br><u>Round 1</u>:The teams will be given a list of diseases with relevant study material by July 5th based on which a written test will be conducted on the day of the event. The written test will contain 50 questions related to the diseases mentioned which is to be attempted in 30 minutes based on which 4 teams will be selected to qualify onto the next round.<br> <u>Round 2</u>: After the teams have been selected they will be given extra study material with which they will have approx. 1.5 hours to prepare for the next round. In the final round the teams will be given medical case studies in which they will have to identify the misdiagnosis made and come up with the correct diagnosis for the illness.The cases will be related to the study material given beforehand andbetween the two rounds.<br><u>Additional Rules:</u>No access to phones/laptops/internet in any form will be allowed.Teams will be judged based on their performance in both the rounds.</p>",
 
 	"<p style='font-size:1em'>\
 	<u>Time:</u> 9.00 am - 2.30 pm<br> \
-	<u>Participation:</u> 15 TEAMS (Up to 2 per school), \
-	2-4 members each.<br> \
+	<u>Participation:</u> Up to 2 teams per school, \
+	2-4 members each. (Max 15 teams total)<br> \
 	<u>Eligibility:</u> Grades 9-12 <br>\
 	<u> No. of Rounds:</u> 2\
 	<br>\
@@ -92,7 +92,7 @@ rules = ["<p style='font-size:1em;'>\
 	</p>",
 	
 	"<p style='font-size: 1em;'><u>Grades Eligible: </u> 9-12<br> \
-	<u>Number of Participants:</u> Groups of three<br> \
+	<u>Number of Participants:</u> 3 members per team, 1 team per school<br> \
 	<u>Number of Rounds:</u> 3<br> \
 	<u>Timing:</u> 9:00am-1:00pm <br>\
 	<u>Qualifiers:</u> (Written Round) \
@@ -116,7 +116,7 @@ rules = ["<p style='font-size:1em;'>\
 	
 	"<p style='font-size:0.9em;'><u>Theme:</u> The Science of Fashion \
 	<u>Time:</u> 12 pm to 3pm\
-	<u>Number of Participants:</u> 6 models +2 designers \
+	<u>Number of Participants:</u> 6 models + 2 designers \
 	<u>Number of rounds:</u> 3<br>\
 	Round 1 (Elimination): \
 	Teams are required to send in their designs of the entire line by 10th July.\
@@ -141,12 +141,12 @@ rules = ["<p style='font-size:1em;'>\
 	</p>",
 	
 	"<p style='font-size:1em'><u>Grades Eligible:</u> 9-12<br>\
-	<u>Number of Participants:</u> 5 members per team<br>\
+	<u>Number of Participants:</u> 5 members per team, 1 team per school<br>\
 	<u>Number of Rounds:</u> 3 surprise rounds<br>\
 	<u>Timings:</u> 9:00am-11:00am</p>",
 	
 	"<p style='font-size:1em'><u>Grades Eligible:</u> 9-12<br>\
-	<u>Number of Participants:</u> Groups of two<br>\
+	<u>Number of Participants:</u> 2 members per team, 1 team per school<br>\
 	<u>Number of Rounds:</u> 2<br>\
 	<u>Event Details:</u><br>\
 	<u>Round 1:</u><br>\
@@ -163,7 +163,7 @@ rules = ["<p style='font-size:1em;'>\
 	
 	"<p style='font-size:0.9em'>\
 	<u>TIME:</u> 9.00 am-2.00 pm \
-	<u>PARTICIPATION:</u> 10 TEAMS (1 per school), \
+	<u>PARTICIPATION:</u> Max 10 teams total (1 per school), \
 	2 members each. \
 	<u>ELIGIBILITY:</u> GRADES 9-12 \
 	<u>NO. OF ROUNDS:</u> 1<br>\
@@ -193,7 +193,7 @@ rules = ["<p style='font-size:1em;'>\
 	</p>",
 	
 	"<p style='font-size:1em'><u>Time:</u> 9:00-2:30<br> \
-	<u>Participation:</u> 2 members per team<br> \
+	<u>Participation:</u> 2 members per team, 1 team per school<br> \
 	<u>Eligibility:</u> Grades 9-12<br> \
 	<u>No. of rounds</u>: 2 <br>\
 	<u>Round 1: </u>\
@@ -217,15 +217,15 @@ rules = ["<p style='font-size:1em;'>\
 	and sell a certain equity.</p>",
 	
 	"<p style='font-size:1em'><u>Time:</u> 9:00-1:00<br>\
-	<u>Participation:</u> 2 members per team<br>\
+	<u>Participation:</u> 2 members per team, 1 team per school (Max 16 teams total)<br>\
 	<u>Eligibility:</u> Grades 10-12<br>\
 	<u>Rules:</u> <br>\
 	Teams face off in classic knockout format.\
-	<br>Schools are required to send maximum two participants to represent their team. They are allowed to carry their phones or laptops.\
+	They are allowed to carry their phones or laptops.\
 	<br>In one such round, teams will be presented a corporate law case.\
 	<br>Each round will be a total of 40 minutes.\
 	<br>Case details will be displayed on a projector, teams must make note of whatever they deem necessary. They are allowed to use their phones/laptops to help them legally build their case.\
-	<br>They are given 20 minutes to do so and towards the end of the 20 minutes they are notified of whether they are plaintiff or defendant.\
+	They are given 20 minutes to do so and towards the end of the 20 minutes they are notified of whether they are plaintiff or defendant.\
 	<br>The format is as follows-\
 	<br>Each speaker has 3 minutes, in which the first and last minute are safe time, where he/she cannot be questioned by the opposition. Between the first and last minute, the opposition can question the speaker.\
 	<br>Speaker is allowed to respond or ignore the question, points will be awarded on how they question or answer.\
