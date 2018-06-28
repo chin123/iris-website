@@ -381,7 +381,8 @@ p {
 
 .footer {
 	background: #262626;
-	padding: 3%;
+  padding: 3%;
+  font-size: 1.5em;
 }
 
 .rules {
@@ -392,10 +393,22 @@ p {
   text-align: left;
 }
 
-@media (min-width:1025px) {
+a {
+  color: white;
+}
+
+@media (min-width:1200px) {
   .rules p {
     font-size: 1.2em !important;
     line-height: 2em !important;
-    
+  }
+}
+
+@media (max-width:1200px) {
+  h1 {
+    font-size: 3em;
+  }
+  h2 {
+    font-size: 1.5em;
   }
 }
