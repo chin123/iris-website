@@ -206,7 +206,7 @@ rules = ["<p style='font-size:1em;'>\
 	The teams that qualified from round 1 (half of the total number of teams\
 	taking part) will participate in this round.\
 	<br><u>Rules:</u> \
-	For the first round, the team will be given be given 5 minutes to\
+	For the first round, the team will be given 5 minutes to\
 	present and 10 minutes for questions from the panel of judges.\
 	No other teams will be allowed to observe the happenings of other\
 	teams.\
