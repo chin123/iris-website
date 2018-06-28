@@ -34,7 +34,7 @@ var ids = ["first", "second", "third", "fourth", "fifth", "sixth", "seventh", "e
 rules = ["<p style='font-size:1em;'>\
 	<u>Time:</u> 9:00-2:30<br> \
 	<u>Participation:</u> 3 members per team<br> \
-	<u>Eligibility:</u> 9-12 <br>\
+	<u>Eligibility:</u> Grades 9-12 <br>\
 	<u>Rules:</u><br> \
 	This event requires broad knowledge of the sciences,\
 	ranging across biology, chemistry and physics, as well as\
@@ -46,13 +46,13 @@ rules = ["<p style='font-size:1em;'>\
 	this event is prohibited. A watch is allowed, and\
 	recommended.</p>",
 
-	"<p style='font-size:0.9em;'><u>Time:</u> 9:00-2:30 <br><u>Participation:</u> 2 members per team <br><u>Eligibility:</u> 11-12 <br><u>Round 1</u>:The teams will be given a list of diseases with relevant study material by July 5th based on which a written test will be conducted on the day of the event. The written test will contain 50 questions related to the diseases mentioned which is to be attempted in 30 minutes based on which 4 teams will be selected to qualify onto the next round.<br> <u>Round 2</u>: After the teams have been selected they will be given extra study material with which they will have approx. 1.5 hours to prepare for the next round. In the final round the teams will be given medical case studies in which they will have to identify the misdiagnosis made and come up with the correct diagnosis for the illness.The cases will be related to the study material given beforehand andbetween the two rounds.<br><u>Additional Rules:</u>No access to phones/laptops/internet in any form will be allowed.Teams will be judged based on their performance in both the rounds.</p>",
+	"<p style='font-size:0.9em;'><u>Time:</u> 9:00-2:30 <br><u>Participation:</u> 2 members per team <br><u>Eligibility:</u> Grades 11-12 <br><u>Round 1</u>:The teams will be given a list of diseases with relevant study material by July 5th based on which a written test will be conducted on the day of the event. The written test will contain 50 questions related to the diseases mentioned which is to be attempted in 30 minutes based on which 4 teams will be selected to qualify onto the next round.<br> <u>Round 2</u>: After the teams have been selected they will be given extra study material with which they will have approx. 1.5 hours to prepare for the next round. In the final round the teams will be given medical case studies in which they will have to identify the misdiagnosis made and come up with the correct diagnosis for the illness.The cases will be related to the study material given beforehand andbetween the two rounds.<br><u>Additional Rules:</u>No access to phones/laptops/internet in any form will be allowed.Teams will be judged based on their performance in both the rounds.</p>",
 
 	"<p style='font-size:1em'>\
 	<u>Time:</u> 9.00 am - 2.30 pm<br> \
 	<u>Participation:</u> 15 TEAMS (Up to 2 per school), \
 	2-4 members each.<br> \
-	<u>Eligibility Grades:</u> 9-12 <br>\
+	<u>Eligibility:</u> Grades 9-12 <br>\
 	<u> No. of Rounds:</u> 2\
 	<br>\
 	Each team will be required to assemble and code a black line following robot. Each round will be an elimination round. The robots which complete the track in the least time will proceed to the next round.<br>\
@@ -81,7 +81,7 @@ rules = ["<p style='font-size:1em;'>\
 	"<p style='font-size: 1em;'>\
 	<u>TIME:</u> 9:00- 1:00 pm<br>\
 	<u>PARTICIPATION:</u> MAX 6 TEAMS (1 per school), 5 members each<br>\
-	<u>ELIGIBILITY GRADES:</u> 9-12<br>\
+	<u>ELIGIBILITY:</u> Grades 9-12<br>\
 	<u>NO. OF ROUNDS:</u> 1<br>\
 	<u>RULES:</u><br>\
 	This is a time-based event<br>\
@@ -194,7 +194,7 @@ rules = ["<p style='font-size:1em;'>\
 	
 	"<p style='font-size:1em'><u>Time:</u> 9:00-2:30<br> \
 	<u>Participation:</u> 2 members per team<br> \
-	<u>Eligibility:</u> 9-12<br> \
+	<u>Eligibility:</u> Grades 9-12<br> \
 	<u>No. of rounds</u>: 2 <br>\
 	<u>Round 1: </u>\
 	Teams will be given a broad topic (Example-Education) 2 weeks before\
@@ -217,8 +217,8 @@ rules = ["<p style='font-size:1em;'>\
 	and sell a certain equity.</p>",
 	
 	"<p style='font-size:1em'><u>Time:</u> 9:00-1:00<br>\
-	<u>Participation:</u>  MAX 16 teams, 2 members per team<br>\
-	<u>Eligibility:</u> 10-12<br>\
+	<u>Participation:</u> 2 members per team<br>\
+	<u>Eligibility:</u> Grades 10-12<br>\
 	<u>Rules:</u> <br>\
 	Teams face off in classic knockout format.\
 	<br>Schools are required to send maximum two participants to represent their team. They are allowed to carry their phones or laptops.\
