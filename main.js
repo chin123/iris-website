@@ -44,9 +44,9 @@ rules = ["<p style='font-size:1em;'>\
 	information. Thinking outside the box is of the essence.\
 	The use/possession of phones or other gadgets during\
 	this event is prohibited. A watch is allowed, and\
-	recommended.</p>",
+	recommended (only an analog or simple non-smart digital watch).</p>",
 
-	"<p style='font-size:0.9em;'><u>Time:</u> 9:00-2:30 <br><u>Participation:</u> 2 members per team, Max 1 team per school <br><u>Eligibility:</u> Grades 11-12 <br><u>Round 1</u>:The teams will be given a list of diseases with relevant study material by July 5th based on which a written test will be conducted on the day of the event. The written test will contain 50 questions related to the diseases mentioned which is to be attempted in 30 minutes based on which 4 teams will be selected to qualify onto the next round.<br> <u>Round 2</u>: After the teams have been selected they will be given extra study material with which they will have approx. 1.5 hours to prepare for the next round. In the final round the teams will be given medical case studies in which they will have to identify the misdiagnosis made and come up with the correct diagnosis for the illness.The cases will be related to the study material given beforehand andbetween the two rounds.<br><u>Additional Rules:</u>No access to phones/laptops/internet in any form will be allowed.Teams will be judged based on their performance in both the rounds.</p>",
+	"<p style='font-size:0.9em;'><u>Time:</u> 9:00-2:30 <br><u>Participation:</u> 2 members per team, Max 1 team per school <br><u>Eligibility:</u> Grades 11-12 <br><u>Round 1</u>:The teams will be given a list of diseases with relevant study material by July 5th based on which a written test will be conducted on the day of the event. The written test will contain 50 questions related to the diseases mentioned which is to be attempted in 30 minutes based on which 4 teams will be selected to qualify onto the next round.<br> <u>Round 2</u>: After the teams have been selected they will be given extra study material with which they will have approx. 1.5 hours to prepare for the next round. In the final round the teams will be given medical case studies in which they will have to identify the misdiagnosis made and come up with the correct diagnosis for the illness.The cases will be related to the study material given beforehand and between the two rounds.<br><u>Additional Rules:</u>No access to internet will be allowed.Teams will be judged based on their performance in both the rounds.</p>",
 
 	"<p style='font-size:1em'>\
 	<u>Time:</u> 9.00 am - 2.30 pm<br> \
@@ -73,14 +73,13 @@ rules = ["<p style='font-size:1em;'>\
 	fest. Each slot is 25 minutes.)<br>\
 	Participants are placed in an escape room scenario where they must find a way to escape\
 	from a crashing spacecraft.Participants &#39; abilities to apply math and physics concepts are put\
-	to a test with 5 challenging questions.Each question is based on any topic in math and\
-	physics and / or their application in architecture.Each answer reveals one character of a\
+	to a test with 5 challenging questions. Each answer reveals one character of a\
 	keycode which unlocks the door of the spacecraft.Teams will be judged on their accuracy\
 	and time of completion.</p>",
 	
 	"<p style='font-size: 1em;'>\
 	<u>TIME:</u> 9:00- 1:00 pm<br>\
-	<u>PARTICIPATION:</u> MAX 6 TEAMS (1 per school), 5 members each<br>\
+	<u>PARTICIPATION:</u> First 6 teams to register (1 per school), 5 members each<br>\
 	<u>ELIGIBILITY:</u> Grades 9-12<br>\
 	<u>NO. OF ROUNDS:</u> 1<br>\
 	<u>RULES:</u><br>\
@@ -100,14 +99,14 @@ rules = ["<p style='font-size:1em;'>\
 	8 teams move to semi-finals.<br>\
 	<u>Semi-finals:</u><br>\
 	Round 1: \
-	Qualified teams will have to answer 4 questions each- organic, inorganic<br>\
+	Teams that qualified will have to answer 4 questions each - organic, inorganic<br>\
 	Round 2: \
-	Participants will have to answer questions based on a theme that they will have to identify. \
+	Teams will have to answer questions based on a theme that they will have to identify. \
 	Four teams are eliminated at the end of this round.<br>\
 	<u>Finals:</u><br>\
 	Round 1: \
-	Participants will have to answer three rounds of questions based on several categories.<br>\
-	Round 2:Surprise Round, \
+	Finalists will have to answer three rounds of questions based on several categories.<br>\
+	Round 2: Surprise Round, \
 	Rules will be revealed on the spot.<br>\
 	Round 3: \
 	A team can bet on another team or on themselves. \
@@ -154,7 +153,7 @@ rules = ["<p style='font-size:1em;'>\
 	lines based on a given topic.<br>\
 	<u>Round 2:</u><br> The 10 best poems will be selected from the first round.<br>\
 	Teams will have to recite the written poem.<br>\
-	Teams are allowed to send both or one participants for this\
+	Teams are allowed to send both or one participant for this\
 	round.<br>\
 	<u>Additional Rules:</u><br>\
 	Use of a dictionary/thesaurus or any digital item will not be\
@@ -198,18 +197,16 @@ rules = ["<p style='font-size:1em;'>\
 	<u>No. of rounds</u>: 2 <br>\
 	<u>Round 1: </u>\
 	Teams will be given a broad topic (Example-Education) 2 weeks before\
-	the event. The teams will have to come up with an idea on the topic given\
-	to them. All the teams will be given the same topic. The teams must come\
-	up with a viable product along with the go to marketing strategy.\
+	the event. All the teams will be given the same topic. The teams will have to come up with an idea on the topic given\
+	to them. The teams must come\
+	up with a viable product along with the Go To Marketing strategy.\
 	<br><u>Round 2:</u> \
 	This is a surprise round; details will be revealed on the day of the event.\
-	The teams that qualified from round 1 (half of the total number of teams\
-	taking part) will participate in this round.\
+	The teams that qualified will participate in this round.\
 	<br><u>Rules:</u> \
 	For the first round, the team will be given 5 minutes to\
 	present and 10 minutes for questions from the panel of judges.\
-	No other teams will be allowed to observe the happenings of other\
-	teams.\
+	No teams will be allowed to watch the presentation and Q&A sessions of the other teams.\
 	The teams will be judged based on the viability of the product,\
 	presentation as well as the Go To Market strategy.\
 	Teams must give a SWOT analysis for the product as well.\
@@ -217,13 +214,12 @@ rules = ["<p style='font-size:1em;'>\
 	and sell a certain equity.</p>",
 	
 	"<p style='font-size:1em'><u>Time:</u> 9:00-1:00<br>\
-	<u>Participation:</u> 2 members per team, 1 team per school (Max 16 teams total)<br>\
+	<u>Participation:</u> 2 members per team, 1 team per school (Max 16 teams total, first come first serve)<br>\
 	<u>Eligibility:</u> Grades 10-12<br>\
 	<u>Rules:</u> <br>\
 	Teams face off in classic knockout format.\
 	They are allowed to carry their phones or laptops.\
-	<br>In one such round, teams will be presented a corporate law case.\
-	<br>Each round will be a total of 40 minutes.\
+	<br>In each of the 40 minute rounds, teams will be presented a corporate law case.\
 	<br>Case details will be displayed on a projector, teams must make note of whatever they deem necessary. They are allowed to use their phones/laptops to help them legally build their case.\
 	They are given 20 minutes to do so and towards the end of the 20 minutes they are notified of whether they are plaintiff or defendant.\
 	<br>The format is as follows-\
