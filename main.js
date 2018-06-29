@@ -113,30 +113,24 @@ rules = ["<p style='font-size:1em;'>\
 	Rules for this round will be given to the participants.\
 	</p>",
 	
-	"<p style='font-size:0.9em;'><u>Theme:</u> The Science of Fashion \
-	<u>Time:</u> 12 pm to 3pm\
-	<u>Number of Participants:</u> 6 models + 2 designers \
+	"<p style='font-size:0.9em;'>\
+	<u>Theme:</u> The Science of Fashion<br>\
+	<u>Time:</u> 12 pm to 3pm<br>\
+	<u>Number of Participants:</u> 6 models + 2 designers<br>\
 	<u>Number of rounds:</u> 3<br>\
-	Round 1 (Elimination): \
-	Teams are required to send in their designs of the entire line by 10th July.\
-	Designs have to incorporate elements from one science based company and one fashion brand\
-	A minimum of 2 designs are required per category for the following-\
-	Jackets/ Pants/ Skirts/ Shoes/ Tops/ Dresses/ Shirts/ Jewellery/ Accessories (hats, bags, scarves)<br>\
-	Round 2: \
-	Categories will be unlocked on the basis of a quiz. The quiz will require participants to have a basic understanding of scientific concepts.\
-	Only the unlocked components of the outfits will be judged at the final show.\
-	Any 2 team members can participate in this round.<br>\
-	Round 3: \
-	Participants have to display their complete line in the final show. However, the design of only the unlocked components from round 2 will be judged.\
-	Each team is required to have a 1 min narration. \
-	The time limit of the performance is 8 min.<br>\
-	General Rules:\
-	All designs should be original. The line needs to be region and season specific. \
-	Props can be used however hazardous materials will not be permitted. \
-	Participants will not be allowed to use electronic gadgets or the Internet. \
-	All teams must wear appropriate clothing. \
-	Each team is required to send the audio track to npsk.iris2018@gmail.com by 15th July. A copy of the same must be brought on the day of the event. \
-	Teams that make it to the second round will be provided with the ramp specifications by 12th July.\
+	<u>Round 1 (Elimination):</u> Teams are required to send one design for the following categories by 10th\
+	July to npsk.iris2018@gmail.com: Jackets/ Pants/ Skirts/ Shoes/ Tops/ Dresses/ Shirts/ Jewellery/\
+	Accessories (hats, bags, scarves). Designs have to incorporate elements from one science based\
+	company and one fashion brand. Six teams move to the next round. Selected schools will be\
+	intimated by 12 th July.<br>\
+	<u>Round 2(Non-Elimination):</u> Quiz. Any two members having basic understanding of scientific\
+	concepts can participate in this round.<br>\
+	<u>Round 3:</u> Teams to display their complete line in the final show with 1 min narration. Total time\
+	limit is 8 min.<br>\
+	<u>General Rules:</u> All designs should be original, region and season specific. Props using hazardous\
+	materials will not be permitted. Use of electronic gadgets or Internet is prohibited. All teams must\
+	wear appropriate clothing. Each team is required to send their audio track to\
+	npsk.iris2018@gmail.com by 15th July. A copy of the same must be brought on the day of the event.\
 	</p>",
 	
 	"<p style='font-size:1em'><u>Grades Eligible:</u> 9-12<br>\
